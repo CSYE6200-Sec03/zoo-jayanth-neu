@@ -1,4 +1,4 @@
-# zo
+# zoo
 zoo-jayanth-neu created by GitHub Classroom
 
 Demonstrate knowledge on how to design and use an API specified as:
